@@ -1,0 +1,17 @@
+{
+  "name": "site-builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {},
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
